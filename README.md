@@ -14,8 +14,11 @@ Ce dépôt contient uniquement ma partie.
   sur Raspberry Pi, activation d'une sortie GPIO pour les personnes autorisées.
 - Pilotage de la porte : verrouillage par servomoteur et ouverture par
   moteur pas à pas 28BYJ-48 (lgpio).
-- Conception et réalisation de la carte électronique (photos dans `docs/`).
-
+- Conception et réalisation complètes, en autonomie, de la carte d'interface
+  (PCB) du Raspberry Pi avec EasyEDA, fabriquée par JLCPCB : attribution des
+  GPIO aux modules (RFID, PIR, clavier matriciel, servomoteur, moteur pas à pas),
+  routage, soudure et définition des broches allouées à chaque coéquipier.
+  
 ## Technologies
 Python, OpenCV, face_recognition (dlib), Picamera2, gpiozero, lgpio
 
