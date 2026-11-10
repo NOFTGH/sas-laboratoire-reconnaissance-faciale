@@ -18,6 +18,12 @@ Ce dépôt contient uniquement ma partie.
   (PCB) du Raspberry Pi avec EasyEDA, fabriquée par JLCPCB : attribution des
   GPIO aux modules (RFID, PIR, clavier matriciel, servomoteur, moteur pas à pas),
   routage, soudure et définition des broches allouées à chaque coéquipier.
+
+## Carte d'interface
+Carte PCB double face conçue et réalisée seul (EasyEDA, JLCPCB).
+
+![Face avant](docs/carte-face-avant.jpg)
+![Face arrière](docs/carte-face-arriere.jpg)
   
 ## Technologies
 Python, OpenCV, face_recognition (dlib), Picamera2, gpiozero, lgpio
