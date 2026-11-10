@@ -1,0 +1,6 @@
+dataset/
+encodings.pickle
+*.jpg
+*.png
+__pycache__/
+.venv/
