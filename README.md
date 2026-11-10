@@ -22,8 +22,8 @@ Ce dépôt contient uniquement ma partie.
 ## Carte d'interface
 Carte PCB double face conçue et réalisée seul (EasyEDA, JLCPCB).
 
-![Face avant](docs/carte-face-avant.jpg)
-![Face arrière](docs/carte-face-arriere.jpg)
+![Face avant](docs/carte-face-avant.jpeg)
+![Face arrière](docs/carte-face-arriere.jpeg)
   
 ## Technologies
 Python, OpenCV, face_recognition (dlib), Picamera2, gpiozero, lgpio
